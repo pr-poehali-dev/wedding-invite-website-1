@@ -24,6 +24,12 @@ export default {
 				ring: 'hsl(var(--ring))',
 				background: 'hsl(var(--background))',
 				foreground: 'hsl(var(--foreground))',
+				wedding: {
+					gold: '#D4AF37',
+					cream: '#FFFEF7',
+					dark: '#2C2C2C',
+					gray: '#8A8A8A'
+				},
 				primary: {
 					DEFAULT: 'hsl(var(--primary))',
 					foreground: 'hsl(var(--primary-foreground))'
